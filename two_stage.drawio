@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T07:23:45.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YzPMj3CRMO4XjVIsdyhQ" version="15.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-16T08:12:49.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="C_MqRjpq3kKISYMG-XKT" version="15.7.4" type="github" pages="4">
   <diagram id="LJy_pu7A4I2uJail81RI" name="two_stage">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="SVkEslSBeD9RFSSFJrJI-0" />
         <mxCell id="SVkEslSBeD9RFSSFJrJI-1" parent="SVkEslSBeD9RFSSFJrJI-0" />
         <mxCell id="st3x6KQMPUKwyE40HJVv-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=25;strokeWidth=3;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="SVkEslSBeD9RFSSFJrJI-1">
-          <mxGeometry x="527.5" y="360" width="660" height="150" as="geometry" />
+          <mxGeometry x="527.5" y="360" width="672.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="st3x6KQMPUKwyE40HJVv-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="SVkEslSBeD9RFSSFJrJI-1" source="_eyZCndIuBNLTlNZf0W5-2" target="st3x6KQMPUKwyE40HJVv-0">
           <mxGeometry relative="1" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="60" y="380" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_eyZCndIuBNLTlNZf0W5-10" value="$$&lt;br&gt;P(Y_{ij})=d_{j_g}&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontSize=18;" parent="SVkEslSBeD9RFSSFJrJI-1" vertex="1">
-          <mxGeometry x="555" y="380" width="155" height="40" as="geometry" />
+          <mxGeometry x="672" y="380" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_eyZCndIuBNLTlNZf0W5-11" value="1.\(\Delta_{ij}\)表示是否为异常作答。\(\phi_j\)代表题目妥协状态。&lt;br style=&quot;font-size: 16px&quot;&gt;2.其中\(i\)代表题目，\(j\)代表学生，\(k\)代表属性。&lt;br style=&quot;font-size: 16px&quot;&gt;3.\(f(·)\)为重参数DINA模型。&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;4.\(d_{j_g}\)、\(d_{j_c}\)分别&lt;/span&gt;&lt;span&gt;代表快速猜测&lt;/span&gt;&lt;span&gt;与题目预知在第\(j\)题上的正确率。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;5.\(\kappa_i\)代表学生\(i\)异常作答时采取欺骗行为(因为题目预知)的倾向程度。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="SVkEslSBeD9RFSSFJrJI-1" vertex="1">
           <mxGeometry x="770" y="552.5" width="570" height="100" as="geometry" />
@@ -246,12 +246,12 @@
           <mxGeometry x="875" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_eyZCndIuBNLTlNZf0W5-21" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$p(Y_{ij})= d_{j_c}&lt;br&gt;&lt;br&gt;$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="SVkEslSBeD9RFSSFJrJI-1" vertex="1">
-          <mxGeometry x="992.5" y="380" width="155" height="40" as="geometry" />
+          <mxGeometry x="1030" y="380" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="st3x6KQMPUKwyE40HJVv-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="SVkEslSBeD9RFSSFJrJI-1" source="st3x6KQMPUKwyE40HJVv-0" target="_eyZCndIuBNLTlNZf0W5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="st3x6KQMPUKwyE40HJVv-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;strokeColor=#000000;strokeWidth=3;" edge="1" parent="SVkEslSBeD9RFSSFJrJI-1" source="st3x6KQMPUKwyE40HJVv-0">
+        <mxCell id="st3x6KQMPUKwyE40HJVv-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;strokeColor=#000000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SVkEslSBeD9RFSSFJrJI-1" source="st3x6KQMPUKwyE40HJVv-0" target="_eyZCndIuBNLTlNZf0W5-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="380" as="targetPoint" />
           </mxGeometry>
@@ -278,7 +278,7 @@
           <mxGeometry x="910" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="st3x6KQMPUKwyE40HJVv-15" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$p(Y_{ij})=d_{j_g}&lt;br&gt;$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SVkEslSBeD9RFSSFJrJI-1">
-          <mxGeometry x="780" y="380" width="155" height="40" as="geometry" />
+          <mxGeometry x="850" y="380" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="st3x6KQMPUKwyE40HJVv-17" value="$$\kappa_{ij}=1$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontSize=18;" vertex="1" parent="SVkEslSBeD9RFSSFJrJI-1">
           <mxGeometry x="1030" y="320" width="60" height="30" as="geometry" />
@@ -293,7 +293,10 @@
           <mxGeometry x="840" y="335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="st3x6KQMPUKwyE40HJVv-23" value="&lt;span&gt;$$log(T_{ij} \sim N(\mu_c, \sigma_c^2))$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SVkEslSBeD9RFSSFJrJI-1">
-          <mxGeometry x="555" y="440" width="605" height="60" as="geometry" />
+          <mxGeometry x="560" y="440" width="605" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="st3x6KQMPUKwyE40HJVv-33" value="$$d_{j_g}=logit(\xi_j)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#b46504;strokeWidth=1;fillColor=#fad7ac;align=center;verticalAlign=middle;" vertex="1" parent="SVkEslSBeD9RFSSFJrJI-1">
+          <mxGeometry x="540" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
