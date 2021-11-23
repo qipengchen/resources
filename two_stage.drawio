@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T08:23:52.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bCNbHaP3nF5B8ZyT6Q_K" version="15.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-23T08:28:28.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="y0N31xzFQWQwJbHkpTSU" version="15.8.3" type="github" pages="5">
   <diagram id="LJy_pu7A4I2uJail81RI" name="two_stage">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -340,8 +340,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RF3AJ6Xfoz24Z_-B199E" name="Page-5">
-    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="RF3AJ6Xfoz24Z_-B199E" name="MMCDM-structure">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wKqAh3b3vICO6l1XnLXj-0" />
         <mxCell id="wKqAh3b3vICO6l1XnLXj-1" parent="wKqAh3b3vICO6l1XnLXj-0" />
