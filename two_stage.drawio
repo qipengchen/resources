@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T07:41:42.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="kHswzXhSnH3gbBwDd49G" version="15.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-23T08:23:52.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bCNbHaP3nF5B8ZyT6Q_K" version="15.8.3" type="github" pages="5">
   <diagram id="LJy_pu7A4I2uJail81RI" name="two_stage">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tQV3lz9dfutiKNVHAWYW" name="MMCDM">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1221" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="SVkEslSBeD9RFSSFJrJI-0" />
         <mxCell id="SVkEslSBeD9RFSSFJrJI-1" parent="SVkEslSBeD9RFSSFJrJI-0" />
@@ -217,7 +217,7 @@
         <mxCell id="_eyZCndIuBNLTlNZf0W5-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="SVkEslSBeD9RFSSFJrJI-1" vertex="1">
           <mxGeometry x="370" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_eyZCndIuBNLTlNZf0W5-11" value="1.\(\Delta_{ij}\)表示是否快速猜测。\(\phi_j\)代表题目状态（是否泄露）。&lt;br style=&quot;font-size: 18px&quot;&gt;2.其中\(i\)代表题目，\(j\)代表学生，\(k\)代表属性。&lt;br style=&quot;font-size: 18px&quot;&gt;3.RA模型为重参数DINA模型。&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;4.\(d_{j_g}\)、\(d_{j_c}\)分别&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;代表快速猜测&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;与题目预知在第\(j\)题上的正确率&lt;/span&gt;&lt;/div&gt;5.\(d_{j_g}\)和DINA模型中的猜测参数在数值上相等。&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;6.\(\kappa_i\)代表学生\(i\)对于泄露题目的知晓程度。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="SVkEslSBeD9RFSSFJrJI-1" vertex="1">
+        <mxCell id="_eyZCndIuBNLTlNZf0W5-11" value="1.\(\Delta_{ij}\)表示是否快速猜测。\(\phi_j\)代表题目状态（是否泄露）。&lt;br style=&quot;font-size: 18px&quot;&gt;2.其中\(i\)代表题目，\(j\)代表学生，\(k\)代表属性。&lt;br style=&quot;font-size: 18px&quot;&gt;3.RA模型为重参数DINA模型。&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;4.\(d_{j_g}\)、\(d_{j_c}\)分别&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;代表快速猜测&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;与题目预知在第\(j\)题上的正确率&lt;/span&gt;&lt;/div&gt;5.\(d_{j_g}\)和DINA模型中的猜测参数在数值上相等。&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;6.\(\kappa_i\)代表学生\(i\)对于已泄露题目的知晓程度。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="SVkEslSBeD9RFSSFJrJI-1" vertex="1">
           <mxGeometry x="900" y="770" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="1qLhiHOZXWEvyHyyPdub-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SVkEslSBeD9RFSSFJrJI-1" source="_eyZCndIuBNLTlNZf0W5-14" target="l9nHGYAoljYETAKfmN97-10">
@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RF3AJ6Xfoz24Z_-B199E" name="Page-5">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wKqAh3b3vICO6l1XnLXj-0" />
         <mxCell id="wKqAh3b3vICO6l1XnLXj-1" parent="wKqAh3b3vICO6l1XnLXj-0" />
@@ -385,7 +385,7 @@
             <mxPoint x="850" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wKqAh3b3vICO6l1XnLXj-6" value="被试是否&lt;br&gt;获取题目&lt;br&gt;泄露信息&lt;br&gt;（节点3）" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;fontStyle=1" parent="wKqAh3b3vICO6l1XnLXj-1" vertex="1">
+        <mxCell id="wKqAh3b3vICO6l1XnLXj-6" value="学生是否&lt;br&gt;获取题目&lt;br&gt;泄露信息&lt;br&gt;（节点3）" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;fontStyle=1" parent="wKqAh3b3vICO6l1XnLXj-1" vertex="1">
           <mxGeometry x="620" y="290" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wKqAh3b3vICO6l1XnLXj-8" value="解题行为" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;fontStyle=1" parent="wKqAh3b3vICO6l1XnLXj-1" vertex="1">
